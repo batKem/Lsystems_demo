@@ -1,0 +1,6 @@
+﻿  lsystem.cpp
+E:\EPFL4\CompGraph\REPO\ComGraphics\assignment_8\src\lsystem.cpp(67): warning C4018: '<' : incompatibilité signed/unsigned
+E:\EPFL4\CompGraph\REPO\ComGraphics\assignment_8\src\lsystem.cpp(94): warning C4244: '+=' : conversion de 'double' en 'float', perte possible de données
+E:\EPFL4\CompGraph\REPO\ComGraphics\assignment_8\src\lsystem.cpp(98): warning C4244: '-=' : conversion de 'double' en 'float', perte possible de données
+E:\EPFL4\CompGraph\REPO\ComGraphics\assignment_8\src\lsystem.cpp(117): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+  lsys.vcxproj -> E:\EPFL4\CompGraph\REPO\ComGraphics\assignment_8\build\Debug\lsys.exe

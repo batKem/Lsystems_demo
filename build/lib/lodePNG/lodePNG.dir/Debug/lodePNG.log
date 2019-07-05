@@ -1,0 +1,4 @@
+﻿  Building Custom Rule E:/EPFL4/CompGraph/REPO/ComGraphics/assignment_8/lib/lodePNG/CMakeLists.txt
+  CMake does not need to re-run because E:/EPFL4/CompGraph/REPO/ComGraphics/assignment_8/build/lib/lodePNG/CMakeFiles/generate.stamp is up-to-date.
+  lodepng.cpp
+  lodePNG.vcxproj -> E:\EPFL4\CompGraph\REPO\ComGraphics\assignment_8\build\Debug\lodePNG.lib
